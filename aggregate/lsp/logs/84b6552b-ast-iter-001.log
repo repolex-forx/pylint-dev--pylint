@@ -1,0 +1,7 @@
+[2026-04-13T12:07:30Z] === AST ITERATION 1 START | repo=pylint-dev/pylint sha=84b6552b ===
+[2026-04-13T12:07:30Z] [iter=1] PHASE START: ast repo=pylint-dev/pylint sha=84b6552b
+[2026-04-13T12:07:30Z] [iter=1] Building AST aggregate chunks
+[2026-04-13T12:12:34Z] [iter=1] AST chunks built count=1 triples=3850127
+[2026-04-13T12:12:34Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/84b6552b86e210097ac29de7ef64b152efb4a454/.complete
+[2026-04-13T12:12:34Z] [iter=1] PHASE END: ast elapsed_s=304 elapsed_min=5.1
+[2026-04-13T12:12:34Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
