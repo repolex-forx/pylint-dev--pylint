@@ -1,8 +1,9 @@
 {
-  "next_action": "enrich",
-  "phase_completed": "enrich_checkpoint",
+  "next_action": "combine",
+  "phase_completed": "enrich",
   "commit_sha": "e808f895d9ac2bdc0de8a544784dba88c2dbf47d",
-  "ts": "2026-04-14T13:07:19Z",
-  "files_completed": 500,
-  "call_targets_resolved": 5042
+  "ts": "2026-04-14T13:15:29Z",
+  "call_sites": 14400,
+  "call_targets_resolved": 5083,
+  "import_targets_resolved": 188
 }
