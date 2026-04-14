@@ -1185,8 +1185,9 @@
     {
       "@id": "https://repolex.ai/r/pylint-dev/pylint/commit/9223172074c4ca2bb5bff3b2c5a40190cc527fcf",
       "git:hexsha": "9223172074c4ca2bb5bff3b2c5a40190cc527fcf",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v3.2.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.2.1",
+      "repolex:parsedAt": "2026-04-14T00:50:55.635037+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pylint-dev/pylint/commit/769ffd20bbf321a6cf23f5e7221a0b8221f51482",
